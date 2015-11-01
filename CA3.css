@@ -1,0 +1,42 @@
+body{
+  background-color:black;
+  background-image:url("http://images8.alphacoders.com/292/292379.jpg");
+}
+h1{
+  font-family:"Bauhaus 93";
+  font-size:70px;
+  text-align:center;
+  color:silver;
+  background-color:transparent;
+  border-style:ridge;
+  width:1200px;
+  height:90px;
+  border-color:silver;
+  text-shadow: 4px 4px 4px #000;
+}
+div{
+  width:510px;
+  height:110spx;
+  border-style:groove;
+  border-color:silver;
+  background-color:transparent;
+  border-radius:5px;
+  text-align:center;
+  font-family:"Bauhaus 93";
+  color:silver;
+  margin:auto;
+  font-size:30px;
+  display:center;
+  text-shadow: 4px 4px 4px #000;
+}
+a{
+  text-decoration:none;
+  color:silver;
+  
+}
+a:hover{
+  color:blue;
+  font-weight:bold;
+  text-decoration:none;
+
+}

@@ -1,0 +1,25 @@
+body{
+
+}
+#header{
+  text-align:center;
+  color:white;
+  font-family:"Desdemona";
+  font-size:80px;
+  background-image:url("http://www.hdwallpapers.in/walls/mount_olympus_god_of_war_ascension-HD.jpg");
+  text-shadow:2px 2px 2px #000;
+}
+
+p{
+  text-align:center;
+  color:white;
+  font-family:"Desdemona";
+  font-size:35px;
+  text-shadow:2px 2px 2px #000;
+  font-weight:bold;
+  background-image:url("http://www.hdwallpapers.in/walls/mount_olympus_god_of_war_ascension-HD.jpg");
+
+}
+h3{
+  text-align:center;
+}
